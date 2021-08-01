@@ -5,31 +5,31 @@
 The goal of this project is to detect faults in building envolope using [YOLOv4](https://github.com/AlexeyAB/darknet). The network is trained on a custom dataset.
 
 ## Dataset
-***TO DO*
+*TO DO*
 
 ## Requirements
-***TO DO*
+*TO DO*
 
 ## Installation Guide
-***TO DO*
+*TO DO*
 
 ## Execution Guide
-***TO DO*
+*TO DO*
 
 ## Training the YOLOv4 network
-***TO DO*
+*TO DO*
 
 ## Testing the YOLOv4 network
-***TO DO*
+*TO DO*
 
 ## Clean-up Guide
-***TO DO*
+*TO DO*
 
 ## Authors
 * Aditya Pujar
 
 ## Acknowledgements
-***TO DO*
+*TO DO*
 
 ## License
 This project is released under the terms of [MIT License](LICENSE).
